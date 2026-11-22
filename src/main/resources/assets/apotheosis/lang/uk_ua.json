@@ -138,7 +138,7 @@
     "affix.apotheosis:armor/attribute/gravitational": "Гравітаційний",
     "affix.apotheosis:armor/attribute/gravitational.suffix": "гравітації",
 
-    "affix.apotheosis:breaker/attribute/lengthy": "Детальний",
+    "affix.apotheosis:breaker/attribute/lengthy": "Довгий",
     "affix.apotheosis:breaker/attribute/lengthy.suffix": "зрозумілості",
 
     "affix.apotheosis:breaker/attribute/experienced": "Досвідчений",
@@ -207,7 +207,7 @@
     "affix.apotheosis:melee/mob_effect/elusive": "Невловний",
     "affix.apotheosis:melee/mob_effect/elusive.suffix": "ухилення",
 
-    "affix.apotheosis:breaker/mob_effect/swift": "Квапливе",
+    "affix.apotheosis:breaker/mob_effect/swift": "Квапливий",
     "affix.apotheosis:breaker/mob_effect/swift.suffix": "розгрому",
 
     "affix.apotheosis:breaker/mob_effect/spelunkers": "Спелеологічний",
@@ -219,7 +219,7 @@
     "affix.apotheosis:shield/mob_effect/venomous": "Отруйний",
     "affix.apotheosis:shield/mob_effect/venomous.suffix": "змії",
 
-    "affix.apotheosis:ranged/mob_effect/fleeting": "Швидкоплинний",
+    "affix.apotheosis:ranged/mob_effect/fleeting": "Перелітний",
     "affix.apotheosis:ranged/mob_effect/fleeting.suffix": "рейнджера",
 
     "affix.apotheosis:melee/mob_effect/weakening": "Послаблюючий",
@@ -249,7 +249,7 @@
     "affix.apotheosis:shield/attribute/steel_touched": "Захисний",
     "affix.apotheosis:shield/attribute/steel_touched.suffix": "сталевого дотику",
 
-    "affix.apotheosis:ranged/mob_effect/ivy_laced": "Плющевий",
+    "affix.apotheosis:ranged/mob_effect/ivy_laced": "Оплетений плющем",
     "affix.apotheosis:ranged/mob_effect/ivy_laced.suffix": "природних токсинів",
 
     "affix.apotheosis:ranged/mob_effect/satanic": "Сатанічний",
@@ -280,7 +280,7 @@
     "affix.apotheosis:generic/telepathic.desc.weapon": "Дроп мобів телепортуватиметься до вас.",
     "affix.apotheosis:generic/telepathic.desc.tool": "Дроп блоків телепортуватиметься до вас.",
 
-    "affix.apotheosis:melee/executing": "Катуючий",
+    "affix.apotheosis:melee/executing": "Вирочний",
     "affix.apotheosis:melee/executing.suffix": "ката",
     "affix.apotheosis:melee/executing.desc": "Вороги з максимальним здоров'ям нижче %s%% будуть страчені.",
     
@@ -363,16 +363,16 @@
     "affix.apotheosis:armor/dmg_reduction/grounded.suffix": "громовідводу",
 
     "affix.apotheosis:ranged/mob_effect/deathbound": "Зв'язаний зі смертю",
-    "affix.apotheosis:ranged/mob_effect/deathbound.suffix": "повелителя зів'янення",
+    "affix.apotheosis:ranged/mob_effect/deathbound.suffix": "повелителя висушення",
 
     "affix.apotheosis:shield/mob_effect/reinforcing": "Укріплений",
     "affix.apotheosis:shield/mob_effect/reinforcing.suffix": "сталі",
 
-    "affix.apotheosis:melee/attribute/lengthy": "Подовжений",
+    "affix.apotheosis:melee/attribute/lengthy": "Довгий",
     "affix.apotheosis:melee/attribute/lengthy.suffix": "екстремальної довжини",
 
-    "affix.apotheosis:ranged/mob_effect/blighted": "Знищений",
-    "affix.apotheosis:ranged/mob_effect/blighted.suffix": "мертвих земель",
+    "affix.apotheosis:ranged/mob_effect/blighted": "Згублений",
+    "affix.apotheosis:ranged/mob_effect/blighted.suffix": "згублених земель",
 
     "affix.apotheosis:armor/attribute/unbound": "Незв'язаний",
     "affix.apotheosis:armor/attribute/unbound.suffix": "Ікара",
@@ -424,7 +424,7 @@
     "affix.apotheosis:armor/dmg_reduction/feathery": "Пір'ястий",
     "affix.apotheosis:armor/dmg_reduction/feathery.suffix": "орла",
 
-    "affix.apotheosis:shield/attribute/stalwart": "Рішучий",
+    "affix.apotheosis:shield/attribute/stalwart": "Непохитний",
     "affix.apotheosis:shield/attribute/stalwart.suffix": "упертості",
 
     "affix.apotheosis:armor/attribute/spiritual": "Духовний",
@@ -434,7 +434,7 @@
     "affix.apotheosis:generic/attribute/lucky.suffix": "благ",
 
     "affix.apotheosis:melee/attribute/nullifying": "Анулюючий",
-    "affix.apotheosis:melee/attribute/nullifying.suffix": "руйнівника магів",
+    "affix.apotheosis:melee/attribute/nullifying.suffix": "магоруйнування",
 
     "affix.apotheosis:melee/attribute/spellbreaking": "Руйнуючий закляття",
     "affix.apotheosis:melee/attribute/spellbreaking.suffix": "петрицитового ґолема",
@@ -812,7 +812,7 @@
     "wave_entity.apotheosis.affixed_armored_zombie": "Афіксований броньований зомбі",
     "wave_entity.apotheosis.affixed_armored_husk": "Афіксований броньований висушень",
     "wave_entity.apotheosis.affixed_armored_skeleton": "Афіксований броньований скелет",
-    "wave_entity.apotheosis.affixed_armored_stray": "Афіксований броньований блукач",
+    "wave_entity.apotheosis.affixed_armored_stray": "Афіксований броньований примара",
     "wave_entity.apotheosis.affixed_polar_bear": "Афіксований полярний ведмідь",
     "wave_entity.apotheosis.affixed_wolf": "Афіксований вовк",
     "wave_entity.apotheosis.affixed_armored_bogged": "Афіксований броньований болотяник",
