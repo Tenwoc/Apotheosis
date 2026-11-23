@@ -30,7 +30,7 @@
       "type": "patchouli:spotlight",
       "item": "apothic_enchanting:ender_library",
       "link_recipe": true,
-      "text": "$(9)Александрійська бібліотека$() має $(6)місткість рівнів$(), рівну тридцяти одному (XXXI).$(p)Її можна створити не безпосередньо, а за допомогою $(l:apotheosis:enchanting/table/infusion)просякнення чарами$()."
+      "text": "$(9)Александрійська бібліотека$() має $(6)місткість рівнів$(), рівну тридцяти одному (XXXI).$(p)Її можна створити не безпосередньо, а за допомогою $(l:apotheosis:enchanting/table/infusion)чароувиття$()."
     }
   ]
 }
